@@ -11,7 +11,7 @@ const project = {
     {
       name: 'slug',
       title: 'Slug',
-      type: 'string',
+      type: 'slug',
       options: { source: 'name' },
     },
     {
